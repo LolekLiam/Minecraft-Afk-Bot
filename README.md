@@ -7,7 +7,7 @@ A Minecraft AFK Bot Written in Node.js
 4. Prismarine Viewer to View the Server
 # Installation
 1. Install [Node.js](https://nodejs.org/en/download/)
-2. [Download] the Latest Release
+2. [Download](https://github.com/LolekLiam/Minecraft-Afk-Bot/archive/refs/heads/main.zip) the Latest Release
 3. Run `npm install` command in bot directory
 # Usage
 1. Configure the Bot in `config.json` File
