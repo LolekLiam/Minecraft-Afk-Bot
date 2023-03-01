@@ -19,4 +19,5 @@ A Minecraft AFK Bot Written in Node.js
 1. Add Mojang/Microsoft Account support
 2. Add Move to Specified Coordinates After Join
 3. Add Hit Mobs While AFK
-4. Add More Configurations to the `config.json` File
+4. Add Jumping While AFK
+5. Add More Configurations to the `config.json` File
