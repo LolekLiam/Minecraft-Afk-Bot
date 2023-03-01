@@ -1,0 +1,12 @@
+{
+  "bot-account": {
+    "username": "very_real_player", // Put the Bot Username Here
+    "type": "offline" // Right Now the Bot Only Works if the Server Properties have online-mode=false
+  },
+
+  "server": {
+    "ip": "example.com", // Put the Server IP Here
+    "port": 25565, // Put the Server Port Here
+    "version": "1.18.2" // Put the Server Version here
+  }
+}
